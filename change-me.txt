@@ -3,3 +3,6 @@ change me
 add a new line
 add another line
 add a new ending
+
+This is a test for manually select
+this is first line
